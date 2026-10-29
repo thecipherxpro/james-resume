@@ -1,0 +1,114 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 7 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 3734 >>
+stream
+BT /F1 13 Tf 45 760 Td (JAMES MUNYABUGINGO) Tj ET
+BT /F1 9 Tf 45 746 Td (Hamilton ON | James.bugingo09@gmail.com | GitHub | LinkedIn) Tj ET
+BT /F1 9 Tf 45 732 Td () Tj ET
+BT /F1 9 Tf 45 718 Td (PROFESSIONAL SUMMARY) Tj ET
+BT /F1 9 Tf 45 704 Td (Cybersecurity professional with a strong focus on Governance Risk and Compliance \(GRC\),) Tj ET
+BT /F1 9 Tf 45 690 Td (enterprise cyber risk management, and security Risk reporting. I apply Risk management) Tj ET
+BT /F1 9 Tf 45 676 Td (frameworks and methodologies to identify, assess, prioritize, and manage cybersecurity risks,) Tj ET
+BT /F1 9 Tf 45 662 Td (evaluate security controls, develop risk treatment strategies, and translate technical findings) Tj ET
+BT /F1 9 Tf 45 648 Td (into meaningful business insights that support informed, risk based decision making) Tj ET
+BT /F1 9 Tf 45 634 Td () Tj ET
+BT /F1 9 Tf 45 620 Td (TECHNICAL SKILLS) Tj ET
+BT /F1 9 Tf 45 606 Td (- Cybersecurity Governance, Risk & Compliance: Cyber Risk Assessment, Risk) Tj ET
+BT /F1 9 Tf 45 592 Td (  Identification and Analysis, Risk Treatment, Risk Registers, Security Control Evaluation,) Tj ET
+BT /F1 9 Tf 45 578 Td (  NIST Cybersecurity Framework) Tj ET
+BT /F1 9 Tf 45 564 Td (- Risk Metrics & Reporting: Cyber Risk Quantification, FAIR Methodology, Key Risk) Tj ET
+BT /F1 9 Tf 45 550 Td (  Indicators \(KRIs\), Key Performance Indicators \(KPIs\), Risk Dashboards, Risk Reporting) Tj ET
+BT /F1 9 Tf 45 536 Td (- Security Operations & Vulnerability Scanning: Vulnerability Assessment, Security) Tj ET
+BT /F1 9 Tf 45 522 Td (  Misconfiguration Analysis, Incident Documentation, Security Monitoring, Remediation) Tj ET
+BT /F1 9 Tf 45 508 Td (  Recommendations) Tj ET
+BT /F1 9 Tf 45 494 Td (- Security Tools & Frameworks: ISO/IEC 27001, NIST Framwork, Nessus Essentials,) Tj ET
+BT /F1 9 Tf 45 480 Td (  Wazuh SIEM) Tj ET
+BT /F1 9 Tf 45 466 Td () Tj ET
+BT /F1 9 Tf 45 452 Td (PROFESSIONAL EXPERIENCE) Tj ET
+BT /F1 9 Tf 45 438 Td (Digital Customer Service Representative | E-Commerce Security | Canadian Tire) Tj ET
+BT /F1 9 Tf 45 424 Td (Financial Services | May 2020 - Present) Tj ET
+BT /F1 9 Tf 45 410 Td (- Security Controls & Compliance: Apply established security procedures and access) Tj ET
+BT /F1 9 Tf 45 396 Td (  controls to protect sensitive customer information, prevent unauthorized account access,) Tj ET
+BT /F1 9 Tf 45 382 Td (  and support compliance with organizational security requirements.) Tj ET
+BT /F1 9 Tf 45 368 Td (- Risk Identification & Assessment: Review customer account activities and e-commerce) Tj ET
+BT /F1 9 Tf 45 354 Td (  transactions to identify suspicious patterns, potential fraud indicators, and security risks) Tj ET
+BT /F1 9 Tf 45 340 Td (  requiring further investigation.) Tj ET
+BT /F1 9 Tf 45 326 Td (- Security Risk Escalation: Identify, document, and escalate suspected fraud, unauthorized) Tj ET
+BT /F1 9 Tf 45 312 Td (  access, and account security concerns to designated investigation teams in accordance) Tj ET
+BT /F1 9 Tf 45 298 Td (  with established procedures.) Tj ET
+BT /F1 9 Tf 45 284 Td (- Audit Documentation & Reporting: Maintain accurate records of identity verification,) Tj ET
+BT /F1 9 Tf 45 270 Td (  account activities, security related findings, and escalations to support operational) Tj ET
+BT /F1 9 Tf 45 256 Td (  accountability, traceability, and audit readiness.) Tj ET
+BT /F1 9 Tf 45 242 Td (- Identity & Access Management \(IAM\): Perform customer identity verification, account) Tj ET
+BT /F1 9 Tf 45 228 Td (  authentication, and account provisioning activities, including account lockouts, access) Tj ET
+BT /F1 9 Tf 45 214 Td (  restoration, and account security reviews in accordance with established security policies.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 2704 >>
+stream
+BT /F1 9 Tf 45 760 Td (RELEVANT PROJECTS \(Github Evidence Portfolio\)) Tj ET
+BT /F1 9 Tf 45 746 Td () Tj ET
+BT /F1 9 Tf 45 732 Td (ISO/IEC 27001:2022 Annex A - Control Assessment & Remediation Planning) Tj ET
+BT /F1 9 Tf 45 718 Td (- Conducted an ISO/IEC 27001:2022 Annex A security control gap analysis for a simulated) Tj ET
+BT /F1 9 Tf 45 704 Td (  financial services organization, assessed control implementation, evaluated supporting) Tj ET
+BT /F1 9 Tf 45 690 Td (  evidence, documented control deficiencies, and recommended corrective action to) Tj ET
+BT /F1 9 Tf 45 676 Td (  strengthen the organization's Information Security Management System \(ISMS\)) Tj ET
+BT /F1 9 Tf 45 662 Td () Tj ET
+BT /F1 9 Tf 45 648 Td (Cyber Risk Assessment and Metric Reporting) Tj ET
+BT /F1 9 Tf 45 634 Td (- Conducted a Risk Assessment for a Fictional Financial Company, developed a Risk) Tj ET
+BT /F1 9 Tf 45 620 Td (  Register to highlight Identified Key critical Assets and the Cyber Risk associated with) Tj ET
+BT /F1 9 Tf 45 606 Td (  them, Likelihood and Business impact. Quantified financial exposure using FAIR concept.) Tj ET
+BT /F1 9 Tf 45 592 Td (  Recommended Risk Treatments and security controls. measured residual risk using KPIs,) Tj ET
+BT /F1 9 Tf 45 578 Td (  KRIs, trends, and control effectiveness and created a report to communicate findings to) Tj ET
+BT /F1 9 Tf 45 564 Td (  the executive committee.) Tj ET
+BT /F1 9 Tf 45 550 Td () Tj ET
+BT /F1 9 Tf 45 536 Td (Vulnerability Assessment & Risk Management | Nessus Essentials) Tj ET
+BT /F1 9 Tf 45 522 Td (- Conducted vulnerability assessments across multiple Windows endpoints using Nessus) Tj ET
+BT /F1 9 Tf 45 508 Td (  Essentials to identify security weaknesses, misconfigurations, and control gaps.) Tj ET
+BT /F1 9 Tf 45 494 Td (  Analyzed findings to assess risk severity, potential security impact, and control) Tj ET
+BT /F1 9 Tf 45 480 Td (  effectiveness. Developed risk based remediation recommendations focused on security) Tj ET
+BT /F1 9 Tf 45 466 Td (  policy enforcement, configuration hardening to reduce organizational risk exposure.) Tj ET
+BT /F1 9 Tf 45 452 Td () Tj ET
+BT /F1 9 Tf 45 438 Td (EDUCATION & CERTIFICATIONS) Tj ET
+BT /F1 9 Tf 45 424 Td (Computer Network and Cybersecurity Engineering) Tj ET
+BT /F1 9 Tf 45 410 Td (Computek College) Tj ET
+BT /F1 9 Tf 45 396 Td (Bachelor of Commerce \(Accounting\)) Tj ET
+BT /F1 9 Tf 45 382 Td (Mount Kenya University) Tj ET
+BT /F1 9 Tf 45 368 Td () Tj ET
+BT /F1 9 Tf 45 354 Td (CERTIFICATIONS) Tj ET
+BT /F1 9 Tf 45 340 Td (CompTIA Security+) Tj ET
+BT /F1 9 Tf 45 326 Td (ISC2 Certified in Cybersecurity) Tj ET
+BT /F1 9 Tf 45 312 Td (ISO 27001 Lead Auditor \(In Progress\)) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000373 00000 n 
+0000000441 00000 n 
+0000004226 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+6981
+%%EOF
